@@ -1,0 +1,8 @@
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.Entidades\bin\Debug\Tahuichi.Entidades.dll
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.Entidades\bin\Debug\Tahuichi.Entidades.pdb
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.Entidades\bin\Debug\Tahuichi.Entidades.xml
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.Entidades\obj\Debug\Tahuichi.Entidades.Resources.resources
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.Entidades\obj\Debug\Tahuichi.Entidades.vbproj.GenerateResource.Cache
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.Entidades\obj\Debug\Tahuichi.Entidades.dll
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.Entidades\obj\Debug\Tahuichi.Entidades.xml
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.Entidades\obj\Debug\Tahuichi.Entidades.pdb

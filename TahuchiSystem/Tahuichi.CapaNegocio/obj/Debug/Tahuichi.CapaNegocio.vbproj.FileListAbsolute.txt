@@ -1,0 +1,16 @@
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaNegocio\bin\Debug\Tahuichi.CapaNegocio.dll
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaNegocio\bin\Debug\Tahuichi.CapaNegocio.pdb
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaNegocio\bin\Debug\Tahuichi.CapaNegocio.xml
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaNegocio\bin\Debug\Tahuichi.CapaDatos.dll
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaNegocio\bin\Debug\Tahuichi.Entidades.dll
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaNegocio\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaNegocio\bin\Debug\Tahuichi.CapaDatos.pdb
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaNegocio\bin\Debug\Tahuichi.CapaDatos.xml
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaNegocio\bin\Debug\Tahuichi.Entidades.pdb
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaNegocio\bin\Debug\Tahuichi.Entidades.xml
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaNegocio\obj\Debug\Tahuichi.CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaNegocio\obj\Debug\Tahuichi.CapaNegocio.Resources.resources
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaNegocio\obj\Debug\Tahuichi.CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaNegocio\obj\Debug\Tahuichi.CapaNegocio.dll
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaNegocio\obj\Debug\Tahuichi.CapaNegocio.xml
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaNegocio\obj\Debug\Tahuichi.CapaNegocio.pdb

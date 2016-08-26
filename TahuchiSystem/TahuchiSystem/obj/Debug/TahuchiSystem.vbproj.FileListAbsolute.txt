@@ -1,0 +1,12 @@
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\TahuchiSystem\bin\Debug\TahuchiSystem.exe
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\TahuchiSystem\obj\Debug\TahuchiSystem.exe
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\TahuchiSystem\obj\Debug\TahuchiSystem.Resources.resources
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\TahuchiSystem\obj\Debug\TahuchiSystem.vbproj.GenerateResource.Cache
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\TahuchiSystem\obj\Debug\TahuchiSystem.pdb
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\TahuchiSystem\bin\Debug\TahuchiSystem.exe.config
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\TahuchiSystem\bin\Debug\TahuchiSystem.pdb
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\TahuchiSystem\bin\Debug\TahuchiSystem.xml
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\TahuchiSystem\obj\Debug\TahuchiSystem.frmCategoria.resources
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\TahuchiSystem\obj\Debug\TahuchiSystem.xml
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\TahuchiSystem\obj\Debug\TahuchiSystem.frmAlumno.resources
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\TahuchiSystem\obj\Debug\TahuchiSystem.frmBase.resources

@@ -1,0 +1,13 @@
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaDatos\bin\Debug\Tahuichi.CapaDatos.dll
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaDatos\bin\Debug\Tahuichi.CapaDatos.pdb
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaDatos\bin\Debug\Tahuichi.CapaDatos.xml
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaDatos\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaDatos\bin\Debug\Tahuichi.Entidades.dll
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaDatos\bin\Debug\Tahuichi.Entidades.pdb
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaDatos\bin\Debug\Tahuichi.Entidades.xml
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaDatos\obj\Debug\Tahuichi.CapaDatos.vbprojResolveAssemblyReference.cache
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaDatos\obj\Debug\Tahuichi.CapaDatos.Resources.resources
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaDatos\obj\Debug\Tahuichi.CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaDatos\obj\Debug\Tahuichi.CapaDatos.dll
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaDatos\obj\Debug\Tahuichi.CapaDatos.xml
+C:\Users\Roly\Google Drive\SISCRUZ\cl\Jafet\Software\TahuchiSystem\Tahuichi.CapaDatos\obj\Debug\Tahuichi.CapaDatos.pdb
